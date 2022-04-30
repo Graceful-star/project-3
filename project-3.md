@@ -3,7 +3,7 @@
 1. I updated ubuntu
 
    `sudo apt update`
-   ![ubuntu](images/capture.PNG)
+   ![ubuntu](images/Capture.PNG)
 
 2. I upgraded ubuntu
 
@@ -190,7 +190,7 @@
 8. I opened the necessary files and pasted the required codes
    
    ![ubuntu](images/image41.PNG)
-   ![ubuntu](images/image42.PNG)
+   
 
   
    
